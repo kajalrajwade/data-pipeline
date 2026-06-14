@@ -1,4 +1,4 @@
-# Datapipeline
+# Data Pipeline
 This is my learning project
 ## Technologies
 PySpark
