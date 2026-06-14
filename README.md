@@ -1,2 +1,7 @@
-# data-pipeline
-Production data pipeline - learning project
+# Datapipeline
+This is my learning project
+## Technologies
+PySpark
+Python
+Pandas
+
